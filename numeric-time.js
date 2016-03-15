@@ -5,7 +5,7 @@
   };
 
   Number.prototype.second = Number.prototype.seconds = function() {
-    return this.miliseconds() * 1000;
+    return this.milliseconds() * 1000;
   };
 
   Number.prototype.minute = Number.prototype.minutes = function() {
