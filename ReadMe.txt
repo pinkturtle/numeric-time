@@ -31,10 +31,3 @@ Bonus Feature! Interoperable Date/Time Travel Capability:
 
 (new Date) - (30).seconds() is thirty seconds ago.
 (new Date) + (30).seconds() is thirty seconds in the future.
-
-Advanced:
-
-(1).millisecond()  is 1000
-(2).milliseconds() is 2000
-(3).milliseconds() is 3000
-(0).milliseconds() is .. 0
