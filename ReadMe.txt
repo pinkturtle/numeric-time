@@ -1,6 +1,6 @@
 Download the numeric-time.js file to your computer storage machine:
 
-https://github.com/pinkturtle/time/raw/master/numeric-time.coffee
+https://github.com/pinkturtle/time/raw/master/numeric-time.js
 
 Add the script to your web page, like so:
 
